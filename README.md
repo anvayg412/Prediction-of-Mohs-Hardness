@@ -1,5 +1,6 @@
 ## Prediction-of-Mohs-Hardness
 Project Still in Progress
+
 Completed or Partially completed
 1. Data Cleaning
 2. EDA
